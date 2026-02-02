@@ -1,0 +1,19 @@
+Repository Size by Folder (generated 2026-02-02T14:15:17Z)
+==========================================================
+
+15M     src/
+8.8M    apps/
+7.1M    docs/
+3.4M    extensions/
+1.7M    vendor/
+1.3M    assets/
+903K    ui/
+530K    skills/
+343K    scripts/
+145K    Swabble/
+79K     test/
+23K     packages/
+4.5K    git-hooks/
+4.0K    patches/
+
+Note: Excludes node_modules/, .git/, and dist/
