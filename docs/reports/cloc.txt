@@ -1,0 +1,32 @@
+Code Line Count Summary (generated 2026-02-02T14:15:17Z)
+========================================================
+
+By file extension:
+------------------
+.ts          548457 lines    3168 files
+.js            2039 lines      16 files
+.json         23950 lines     105 files
+.md           78747 lines     440 files
+.sh            5137 lines      47 files
+.swift        72369 lines     438 files
+.kt           10855 lines      63 files
+.yml           2459 lines      27 files
+.yaml         20826 lines      10 files
+.css           6098 lines      14 files
+.html           889 lines       5 files
+
+By directory (TypeScript/JavaScript only):
+-------------------------------------------
+src/              437083 lines    2520 files
+apps/                490 lines       1 files
+extensions/        73687 lines     385 files
+docs/                 55 lines       1 files
+scripts/            3323 lines      24 files
+test/               1830 lines      16 files
+packages/              4 lines       4 files
+ui/                18310 lines     108 files
+vendor/            14419 lines     113 files
+skills/                0 lines       0 files
+
+Total TypeScript/JavaScript lines: ~549,000
+Total files tracked: 4,333+
